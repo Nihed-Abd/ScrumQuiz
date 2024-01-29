@@ -1,0 +1,144 @@
+[
+    {
+        "question": "Le propriétaire du produit est responsable de la gestion de l'équipe de développement ?",
+        "choice1": "Vrai",
+        "choice2": "Faux",
+        "reponse": 2
+    },
+    {
+        "question": "Scrum recommande des phases de développement à durée fixe connues sous le nom de sprints.",
+        "choice1": "Vrai",
+        "choice2": "Faux",
+        "reponse": 1
+    },
+    {
+        "question": "Les équipes Scrum sont généralement composées de :",
+        "choice1": "Chef de projet",
+        "choice2": "Maître Scrum",
+        "choice3": "Propriétaire du produit",
+        "choice4": "Tous les éléments ci-dessus",
+        "reponse": 2
+    },
+    {
+        "question": "Le backlog du produit est :",
+        "choice1": "Une liste de tâches terminées lors d'un sprint",
+        "choice2": "Une liste priorisée de fonctionnalités, d'améliorations et de corrections de bogues",
+        "choice3": "Un enregistrement de la progression quotidienne de l'équipe",
+        "choice4": "Aucune des réponses ci-dessus",
+        "reponse": 2
+    },
+    {
+        "question": "La réunion de revue de sprint se déroule :",
+        "choice1": "Quotidiennement",
+        "choice2": "Au début de chaque sprint",
+        "choice3": "À la fin de chaque sprint",
+        "choice4": "Chaque fois que l'équipe le juge nécessaire",
+        "reponse": 3
+    },
+    {
+        "question": "Le maître Scrum est responsable de la gestion du backlog du produit ?",
+        "choice1": "Vrai",
+        "choice2": "Faux",
+        "reponse": 2
+    },
+    {
+        "question": "La réunion quotidienne est principalement destinée à :",
+        "choice1": "Mettre à jour le propriétaire du produit",
+        "choice2": "Rendre compte de la progression aux parties prenantes",
+        "choice3": "Identifier les obstacles et coordonner le travail",
+        "choice4": "Définir les priorités pour le prochain sprint",
+        "reponse": 3
+    },
+    {
+        "question": "La rétrospective de sprint est une occasion pour l'équipe de réfléchir à son processus et d'identifier des domaines d'amélioration ?",
+        "choice1": "Vrai",
+        "choice2": "Faux",
+        "reponse": 1
+    },
+    {
+        "question": "Les équipes Scrum visent à livrer un incrément de produit potentiellement livrable :",
+        "choice1": "À la fin de chaque sprint",
+        "choice2": "Au début de chaque sprint",
+        "choice3": "Lorsque le propriétaire du produit le demande",
+        "choice4": "Seulement après plusieurs sprints",
+        "reponse": 1
+    },
+    {
+        "question": "L'équipe de développement de Scrum doit être pluridisciplinaire, avec toutes les compétences nécessaires pour livrer un incrément de produit potentiellement livrable ?",
+        "choice1": "Vrai",
+        "choice2": "Faux",
+        "reponse": 1
+    },
+    {
+        "question": "Le rôle du propriétaire du produit comprend :",
+        "choice1": "La priorisation du backlog du produit",
+        "choice2": "Assister à la réunion quotidienne",
+        "choice3": "Faciliter la rétrospective de sprint",
+        "choice4": "Attribuer des tâches aux membres de l'équipe",
+        "reponse": 1
+    },
+    {
+        "question": "Le backlog de sprint est créé lors de la réunion de planification de sprint et reste statique tout au long du sprint ?",
+        "choice1": "Vrai",
+        "choice2": "Faux",
+        "reponse": 2
+    },
+    {
+        "question": "Scrum met l'accent sur :",
+        "choice1": "La planification et la documentation prédictives",
+        "choice2": "L'adaptation aux changements de besoins",
+        "choice3": "Le respect d'un calendrier rigide",
+        "choice4": "Tous les éléments ci-dessus",
+        "reponse": 2
+    },
+    {
+        "question": "La durée d'un sprint dans Scrum est généralement de :",
+        "choice1": "1 mois",
+        "choice2": "1 an",
+        "choice3": "1 semaine",
+        "choice4": "1 jour",
+        "reponse": 1
+    },
+    {
+        "question": "Le maître Scrum est responsable de s'assurer que l'équipe termine toutes les tâches du backlog de sprint ?",
+        "choice1": "Vrai",
+        "choice2": "Faux",
+        "reponse": 2
+    },
+    {
+        "question": "Le but de la réunion de planification de sprint est de :",
+        "choice1": "Passer en revue les progrès du sprint précédent",
+        "choice2": "Attribuer des tâches aux membres de l'équipe",
+        "choice3": "Planifier le travail à réaliser lors du prochain sprint",
+        "choice4": "Effectuer une rétrospective du projet",
+        "reponse": 3
+    },
+    {
+        "question": "Scrum est un cadre principalement utilisé pour la planification et le contrôle prédictifs ?",
+        "choice1": "Vrai",
+        "choice2": "Faux",
+        "reponse": 2
+    },
+    {
+        "question": "Le cadre Scrum est basé sur les principes énoncés dans :",
+        "choice1": "Le Manifeste Agile",
+        "choice2": "Le Manifeste en cascade",
+        "choice3": "Les principes Six Sigma",
+        "choice4": "Aucune des réponses ci-dessus",
+        "reponse": 1
+    },
+    {
+        "question": "L'équipe de développement peut changer l'objectif de sprint après le début du sprint ?",
+        "choice1": "Vrai",
+        "choice2": "Faux",
+        "reponse": 2
+    },
+    {
+        "question": "Le but principal de la réunion de revue de sprint est de :",
+        "choice1": "Planifier le travail pour le prochain sprint",
+        "choice2": "Réfléchir au processus de l'équipe et identifier les domaines à améliorer",
+        "choice3": "Démontrer le travail terminé aux parties prenantes et recueillir des retours",
+        "choice4": "Mettre à jour le backlog du produit",
+        "reponse": 3
+    }
+]
